@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Rehner</h1>
 <h3 align="center">Break it down, Time-box, Deliver, Repeat</h3>
 
-- 🔭 I’m currently working on [EAB: Navigate](https://eab.com/products/navigate/)
-
 - 🌱 I’m currently learning **React, TypeScript**
 
 - 💬 Ask me about **Ruby on Rails, AWS Lambda Functions**
