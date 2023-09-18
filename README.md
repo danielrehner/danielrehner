@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Rehner</h1>
 <h3 align="center">Break it down, Time-box, Deliver, Repeat</h3>
 
-- 🌱 I’m currently learning **React, Python, Terraform**
+- 🌱 I’m currently learning **React, Typescript, Python, FastAPI, Langchain, Terraform**
 
 - 💬 Ask me about **Ruby on Rails, AWS Lambda Functions**
 
