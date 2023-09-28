@@ -17,3 +17,6 @@ RSpec, Minitest, Cucumber, Capybara, Jest, Vitest, Puppeteer
 
 <h3 align="left">Tools:</h3>
 Docker, Websockets, Postgres, MySQL, Git, GitHub, GitLab, CircleCI, Stripe
+
+<h3 align="left">Learning:</h3>
+Typescript, Python, FastAPI, Langchain, Terraform
