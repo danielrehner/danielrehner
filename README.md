@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Rehner</h1>
-<h3 align="center">Break it down, Time-box, Deliver, Repeat</h3>
-
-- 💬 Ask me about **Ruby on Rails, AWS Lambda Functions**
-
-- 🌱 I’m currently learning **Python, FastAPI, Langchain**
+<h3 align="center">Senior Principal Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
