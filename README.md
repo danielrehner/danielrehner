@@ -7,16 +7,20 @@
 </p>
 
 <h3 align="left">Languages and Frameworks:</h3>
-Ruby on Rails, Serverless Framework, JavaScript, Node.js, React, HTML, CSS, Bootstrap, Tailwind
+Ruby on Rails, JavaScript / ES6, Node.js, Express, React, Typescript, Turbo/Stimulus (Hotwire), jQuery, HTML, CSS, Sass, Bootstrap, Tailwind, Serverless Framework, Python, FastAPI, Langchain, Terraform
 
 <h3 align="left">Amazon Web Services:</h3>
-EC2, ECR, ECS, RDS, Elasticache, S3, Lambda, API Gateway, DynamoDB, DocumentDB, SNS
+VPC, IAM, S3, EC2, ECS, RDS, Elasticache, Lambda Functions, API Gateway
+
+<h3 align="left">Databases:</h3>
+MySQL, Postgres / PostgreSQL, Redis, MongoDB, DynamoDB, DocumentDB, Elasticsearch
+
+<h3 align="left">Methodologies:</h3>
+Agile, Scrum, Test Driven Development (TDD), Object-oriented Design, Continuous Integration (CI/CD)
 
 <h3 align="left">Testing:</h3>
 RSpec, Minitest, Cucumber, Capybara, Jest, Vitest, Puppeteer
 
 <h3 align="left">Tools:</h3>
-Docker, Websockets, Postgres, MySQL, Git, GitHub, GitLab, CircleCI, Stripe
+Resque, Sidekiq, Docker, Websockets, Webhooks, Git, GitHub, GitLab, CircleCI, Linux, Stripe, SendGrid, npm, yarn
 
-<h3 align="left">Learning:</h3>
-Typescript, Python, FastAPI, Langchain, Terraform
